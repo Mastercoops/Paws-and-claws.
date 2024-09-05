@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paws & Claws - Contact</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Paws & Claws Dog Grooming</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="booking.html">Booking</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Contact Us</h2>
+            <p>We want to hear from you! Feel free to reach out with any questions or to book an appointment.</p>
+            <p>Email us at: <a href="mailto:paws&claws@gogs.com">paws&claws@gogs.com</a></p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Paws & Claws Dog Grooming. All rights reserved.</p>
+    </footer>
+</body>
+</html>
