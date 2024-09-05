@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paws & Claws - Home</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Paws & Claws Dog Grooming</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="booking.html">Booking</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Welcome to Paws & Claws Dog Grooming!</h2>
+            <p>At Paws & Claws, we offer top-notch grooming services for your beloved pets. Our experienced groomers are dedicated to making sure your dog looks and feels their best. From trims to makeovers, we provide a range of services to suit your needs.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Paws & Claws Dog Grooming. All rights reserved.</p>
+    </footer>
+</body>
+</html>
