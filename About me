@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paws & Claws - About Me</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Paws & Claws Dog Grooming</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="booking.html">Booking</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>I have lots of experience in grooming and want the best for your dog. My goal is to provide exceptional care and ensure that every dog leaves happy and looking great.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Paws & Claws Dog Grooming. All rights reserved.</p>
+    </footer>
+</body>
+</html>
